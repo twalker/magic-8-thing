@@ -2,6 +2,11 @@
   "name": "magic-8-thing",
   "version": "0.0.1",
   "description": "arduino magic 8 thing",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twalker/magic-8-thing.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
